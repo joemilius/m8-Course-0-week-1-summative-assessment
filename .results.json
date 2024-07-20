@@ -1,0 +1,158 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 10,
+    "passes": 10,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-07-20T15:02:00.703Z",
+    "end": "2024-07-20T15:02:01.179Z",
+    "duration": 476
+  },
+  "tests": [
+    {
+      "title": "The variable called totalItemsSold exists and starts at the value of 0",
+      "fullTitle": "Variable Declarations The variable called totalItemsSold exists and starts at the value of 0",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "The variable called totalIncome exists and starts at a value of 0",
+      "fullTitle": "Variable Declarations The variable called totalIncome exists and starts at a value of 0",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
+      "fullTitle": "Variable Declarations The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "deceases the amount in the item object that has a name that matches the argument and returns the updated array",
+      "fullTitle": "Function Declarations itemSold(itemName) deceases the amount in the item object that has a name that matches the argument and returns the updated array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalItemSold variable by 1",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalItemSold variable by 1",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalIncome variable by the price of the item",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not update the items array if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) does not update the items array if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not increase the totalItemSold variable by 1 if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) does not increase the totalItemSold variable by 1 if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "iterates through the array of items the customer is buying and adds the prices together, then returns the total",
+      "fullTitle": "Function Declarations billTotal(customerOrder) iterates through the array of items the customer is buying and adds the prices together, then returns the total",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "The variable called totalItemsSold exists and starts at the value of 0",
+      "fullTitle": "Variable Declarations The variable called totalItemsSold exists and starts at the value of 0",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "The variable called totalIncome exists and starts at a value of 0",
+      "fullTitle": "Variable Declarations The variable called totalIncome exists and starts at a value of 0",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
+      "fullTitle": "Variable Declarations The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "deceases the amount in the item object that has a name that matches the argument and returns the updated array",
+      "fullTitle": "Function Declarations itemSold(itemName) deceases the amount in the item object that has a name that matches the argument and returns the updated array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalItemSold variable by 1",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalItemSold variable by 1",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalIncome variable by the price of the item",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not update the items array if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) does not update the items array if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not increase the totalItemSold variable by 1 if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) does not increase the totalItemSold variable by 1 if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
+      "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "iterates through the array of items the customer is buying and adds the prices together, then returns the total",
+      "fullTitle": "Function Declarations billTotal(customerOrder) iterates through the array of items the customer is buying and adds the prices together, then returns the total",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}

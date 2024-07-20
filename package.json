@@ -1,0 +1,37 @@
+{
+    "name": "m8-course-0-week-1-summative-assessment",
+    "version": "0.1.0",
+    "description": "Using Javascript fundamentals to keep track of a store's inventory",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "javascript",
+      "flatiron",
+      "learn"
+    ],
+    "author": "milius",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+      "url": "1"
+    },
+    "homepage": "",
+    "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "1.7.0",
+    "chai": "^4.2.0",
+    "jsdom": "^9.2.1",
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "^1.0.1",
+    "sinon": "^7.3.1"
+  },
+  "dependencies": {
+    "expect": "^24.7.1"
+  }
+  }
