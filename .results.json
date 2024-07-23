@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-07-20T15:02:00.703Z",
-    "end": "2024-07-20T15:02:01.179Z",
-    "duration": 476
+    "start": "2024-07-23T22:23:14.071Z",
+    "end": "2024-07-23T22:23:14.638Z",
+    "duration": 567
   },
   "tests": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "The variable called totalIncome exists and starts at a value of 0",
       "fullTitle": "Variable Declarations The variable called totalIncome exists and starts at a value of 0",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
       "fullTitle": "Variable Declarations The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
       "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,14 +94,14 @@
     {
       "title": "The variable called totalIncome exists and starts at a value of 0",
       "fullTitle": "Variable Declarations The variable called totalIncome exists and starts at a value of 0",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
       "fullTitle": "Variable Declarations The variable called items exists and is assigned the value of [{name: 'Spark Plug', amount: 10, price: 10.49}, {name: 'Alternator', amount: 8, price: 269.99}, {name: 'Air Filter', amount: 17, price: 21.99}]",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
       "fullTitle": "Function Declarations itemSold(itemName) increases the totalIncome variable by the price of the item if the string passed in does not match any item name",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
